@@ -1111,15 +1111,43 @@ body > footer .copyrights {
 }
 /*Skill 6*/
 .skill-percentage.skill-6 {
-  width: 92%;
+  width: 40%;
 }
 /*Skill 7*/
 .skill-percentage.skill-7 {
-  width: 60%;
+  width: 50%;
 }
 /*Skill 8*/
 .skill-percentage.skill-8 {
-  width: 77%;
+  width: 30%;
+}
+/*Skill 9*/
+.skill-percentage.skill-9 {
+  width: 50%;
+}
+/*Skill 10*/
+.skill-percentage.skill-10 {
+  width: 90%;
+}
+/*Skill 11*/
+.skill-percentage.skill-11 {
+  width: 60%;
+}
+/*Skill 12*/
+.skill-percentage.skill-12 {
+  width: 93%;
+}
+/*Skill 13*/
+.skill-percentage.skill-13 {
+  width: 70%;
+}
+/*Skill 14*/
+.skill-percentage.skill-14 {
+  width: 60%;
+}
+/*Skill 15*/
+.skill-percentage.skill-15 {
+  width: 80%;
 }
 /* Skills */
 
